@@ -1,6 +1,6 @@
-# Post_App
+# Posts App
 
-<p>This is a Post App with a virtual environment</p>
+<p>This is a Post App with a virtual environment💻</p>
 
 ---
 
@@ -29,12 +29,12 @@
 
 ---
 
-### Responsive
+### Responsive 📱
 
 <p>The Post App is fully responsive and all the styles are applied using <strong>Bootstrap</strong></p>
 
 ---
 
-### Storage
+### Storage 💾
 
 <p>The posts are all stored inside a local database</p>
